@@ -27,20 +27,14 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "PTERIN"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "Pterin"
+site_build_date = "2020-1-17T19:00+08:00"
+author = ""
 email = ""
 author_homepage = ""
 description = ""
-key_words = ['Maverick', 'Pterin', 'Galileo', 'blog']
+key_words = ['Pterin', 'blog']
 language = 'zh-CN'
-external_links = [
-    {
-        "name": "",
-        "url": "",
-        "brief": ""
-    }
-]
+external_links = ''
 nav = [
     {
         "name": "首页",
@@ -62,17 +56,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "",
         "icon": "gi gi-weibo"
     }
 ]
