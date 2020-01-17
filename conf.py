@@ -13,6 +13,12 @@ template = {
     "type": "local",
     "path": "../Galileo"
 }
+valine = {
+    "enable": True,
+    "el": '#vcomments',
+    "appId": "VFxlyAoXejJvRTMb4KX8okfN-MdYXbMMI",
+    "appKey": "RH2THTEkeHQFee8QcLPy8l09",
+}
 enable_jsdelivr = {
     "enabled": True,
     "repo": "pterin/Blog-With-GitHub-Boilerplate@gh-pages"
