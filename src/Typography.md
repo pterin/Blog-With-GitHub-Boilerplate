@@ -5,7 +5,6 @@ slug: typography
 date: 2019-12-18 16:50
 status: publish
 author: AlanDecode
-comment:true
 categories: 
   - Maverick
 tags:
