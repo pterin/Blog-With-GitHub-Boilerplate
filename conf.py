@@ -34,7 +34,6 @@ author_homepage = ""
 description = ""
 key_words = ['Pterin', 'blog']
 language = 'zh-CN'
-external_links = ''
 nav = [
     {
         "name": "首页",
